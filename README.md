@@ -1,16 +1,14 @@
-## Hi there 👋
+# Pavan Kumar Mankala
+Data Engineer | Data Analyst
+Terre Haute, IN — Open to Relocation
 
-<!--
-**Pavankumarmankala/Pavankumarmankala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 [View my portfolio](https://muse.ai/s/portfolio-homepage-mockup-x0v6sshx0xjkov/e9vAxPYjiiOOHdadnovBp23MOqpIcqslRdoe5Gf7HtU)
 
-Here are some ideas to get you started:
+## Featured projects
+- Real-Time Kafka + Spark Transaction Monitoring
+- AWS ETL Pipeline with Airflow, S3, Glue and Redshift
+- Real-Time E-Commerce Fraud & Transaction Monitoring
+- E-Commerce Sales & Revenue Analytics
+- Customer Churn & Retention Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Python, SQL, PySpark, Kafka, Airflow, AWS, Snowflake, Power BI, DAX, Tableau
